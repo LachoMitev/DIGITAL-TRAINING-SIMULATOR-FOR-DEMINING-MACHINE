@@ -56,15 +56,6 @@ As part of this simulator, we also developed a **functional replica of the machi
 
 ---
 
-## 📦 How to Run
-
-1. Download the ZIP package: [Download Build](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID)
-2. Extract all files to a local folder
-3. Run `DeminingSimulator.exe`
-4. Use the on-screen UI and instructions to operate the vehicle
-
----
-
 ## 🧰 Built With
 
 - Unreal Engine 5.4
