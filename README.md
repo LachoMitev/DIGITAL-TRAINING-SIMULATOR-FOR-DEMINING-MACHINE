@@ -25,17 +25,7 @@ Watch a short demonstration of the simulator in action:
 
 ## 🖼️ Screenshots
 
-### 🧨 Interface and Simulation Environment
-![Simulation UI](DemoPictures/Capture.png)
-![Edited UI View](DemoPictures/Capture_edited.jpg)
 
-### 🔧 Hardware Prototype
-![Hardware Photo](DemoPictures/IMG_0480.jpg)
-![Hardware Setup](DemoPictures/20181113_082544%20(1).jpg)
-
-### 🚜 Machine Operation Views
-![Simulation 1](DemoPictures/sim1%20cap1.png)
-![Simulation 2](DemoPictures/sim1%20cap1R.png)
 
 ---
 
