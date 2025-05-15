@@ -4,7 +4,6 @@ TRAINING SIMULATOR
 Introduction
 
 The purpose of the training simulator was to create a digital twin of an unmanned, remotely controlled vehicle. It allows better and longer training for the demining team. Also, it has the same features and functionalities as the real-life vehicle, which provides an excellent option for the trainees to improve their skills and become better operators.
----
 
 ARMTRAC 20T C-IED ROBOT MK2
 Unmanned Ground Vehicle
@@ -44,6 +43,16 @@ Watch a short demonstration of the simulator in action:
 - Blueprint-only logic (no C++) for rapid prototyping
 - 3D environment based on realistic terrain setups
 - Modular design for future hardware integrations
+
+## ✅ Realistic Control System
+
+As part of this simulator, we also developed a **functional replica of the machine’s original remote control**, using:
+
+- **Arduino Leonardo and Mega boards**
+- **3D-printed custom enclosure and buttons**
+- Integration with the simulator via USB HID signals (keyboard emulation)
+
+> This hardware replica mirrors the actual interface used in real-life training and enables a fully immersive experience when combined with the simulation.
 
 ---
 
