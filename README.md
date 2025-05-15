@@ -25,7 +25,14 @@ Watch a short demonstration of the simulator in action:
 
 ## 🖼️ Screenshots
 
+### 🧭 Overview of Training Simulation
 
+| ![DT1](DemoPictures/DT1.png) | ![DT2](DemoPictures/DT2.jpg) | ![DT3](DemoPictures/DT3.png) |
+|-----------------------------|-----------------------------|-----------------------------|
+| ![DT4](DemoPictures/DT4.png) | ![DT5](DemoPictures/DT5.png) | ![DT6](DemoPictures/DT6.jpg) |
+| ![DT7](DemoPictures/DT7.png) | ![DT8](DemoPictures/DT8.png) | ![DT9](DemoPictures/DT9.png) |
+
+> These images showcase the machine UI, environment setup, training interface, and real control integration.
 
 ---
 
